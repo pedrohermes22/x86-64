@@ -1,0 +1,3 @@
+﻿  Assembling Assembly.asm...
+Assembly.asm(1): error A2088: END directive required at end of file
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: O comando "ml64.exe /c /nologo /Zi /Fo"SomandoVetores\x64\Debug\Assembly.obj" /W3 /errorReport:prompt  /TaAssembly.asm" foi finalizado com o código 1.
