@@ -1,4 +1,7 @@
 # x86-64
+
+Nesse repositório vou adicionar alguns projetos simples, para estudos ou testes, usando códigos assembly x86 64 bits sozinhos ou juntamente à códigos C/C++.
+
 ## Compilando código x86-64 usando CLI
 ### Apenas o arquivo .ASM
 
