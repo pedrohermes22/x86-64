@@ -27,6 +27,13 @@ __Comandos:__
 3. Execute a aplicação usando `./Program`.
 4. Para limpar, execute `make clean`.
 
+__Gerar arquivo disassembled:__
+
+1. Abra o terminal na pasta do projeto.
+2. Execute `make dis`.
+3. O arquivo `Program.dis.txt` será gerado. 
+4. Para limpar, execute `make clean`.
+
 ## Observações
 
 1. Código desenvolvido e testado no Ubuntu. Compatibilidade com Windows pode não estar presente!
